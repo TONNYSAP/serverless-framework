@@ -1,4 +1,4 @@
-# SSS - Super Serverless Sample
+# Serverless Framework
 
 Esse é um projeto de exemplo de arquitetura serverless usando como inspiração a votação para eliminação do paredão do BBB.
 Nessas votações, o sistema da Globo recebe uma alta carga de execuções e precisa de uma arquitetura que consiga processar tudo isso.
